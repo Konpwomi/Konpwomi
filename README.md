@@ -35,7 +35,7 @@ I'm always open to collaborating on projects, discussing new ideas, or just chat
 
 - 🌐 **Personal Website**: [Patiphan.site](https://www.patiphan.site)
 - 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/patiphan-arphorn/)
-- 💬 **Facebook**: [Patiphan.arp](https://twitter.com/YourUsername)
+- 💬 **Facebook**: [Patiphan.arp](https://www.facebook.com/patiphan.arp)
 - 📧 **Email**: [Patiphan.arp@gmail.com](mailto:Patiphan.arp@gmail.com)
 
 Let's build something amazing together! 💡✨
