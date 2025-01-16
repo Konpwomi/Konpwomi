@@ -1,4 +1,4 @@
-# Hello World! , I'm Patiphan Arphorn   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Hello World ! , I'm Patiphan Arphorn   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 " I'm a software engineer who values quality over quantity. I'm always working to improve my skills, whether it's in front-end, back-end, or problem-solving. I focus on best practices to make sure my work is done right, not just done. "
 
@@ -47,22 +47,3 @@ I'm always open to collaborating on projects, discussing new ideas, or just chat
 - 📧 **Email**: [Patiphan.arp@gmail.com](mailto:Patiphan.arp@gmail.com)
 
 Let's build something amazing together! 💡✨
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Konpwomi/Konpwomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
