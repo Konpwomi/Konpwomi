@@ -1,4 +1,4 @@
-<img align="right" width="220" height="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN6ZGo3bHdtaW5yZmplb3F5OXBodDFsczJicmZ5OGMyb2J2NTdrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MXcpEMuEwGvyMI9nft/giphy.gif" alt="gif of the various My Octocats I've created"></a>
+<img align="right" width="200" height="200" src="https://github.com/user-attachments/assets/cb47f89c-ad35-42a3-b090-9784194c8063" alt="gif of the various My Octocats I've created"></a>
 
 <div id="toc">
     <summary>
@@ -7,6 +7,7 @@
 </div>
 
 "A passionate software engineer who believes in quality over quantity. I constantly strive to improve my skills, whether it's in front-end development, backend, or algorithmic problem solving. I focus on best practices to ensure my work is not just done but done well. Explore my portfolio and see how I bring my dedication to every project!"
+
 
 ##
 
