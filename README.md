@@ -33,9 +33,12 @@
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
-
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Konpwomi&theme=dark)](https://leetcode.com/Konpwomi/)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Konpwomi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://leetcode.com/Konpwomi/">
+    <img src="https://leetcode-stats.vercel.app/api?username=Konpwomi&theme=dark" alt="LeetCode Stats">
+  </a>
+  <img src="https://github.com/user-attachments/assets/6dae943b-2a19-4672-9d5c-01cd40300187" width="200" height="200">
+</p>
 
 ## Get in Touch 🚀
 
