@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge" />
+
+
 <!--
 **Konpwomi/Konpwomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
