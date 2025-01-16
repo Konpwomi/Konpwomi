@@ -1,4 +1,4 @@
-# Hi there, I'm Patiphan Arphorn 👋
+# Hello World, I'm Patiphan Arphorn   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 " I'm a software engineer who values quality over quantity. I'm always working to improve my skills, whether it's in front-end, back-end, or problem-solving. I focus on best practices to make sure my work is done right, not just done. "
 
