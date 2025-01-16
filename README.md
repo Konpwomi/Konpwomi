@@ -26,8 +26,6 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
-<img align="right" width="200" height="200" src="https://github.com/user-attachments/assets/cb47f89c-ad35-42a3-b090-9784194c8063" alt=""></a>
-
 [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Konpwomi&theme=dark)](https://leetcode.com/Konpwomi/)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Konpwomi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
