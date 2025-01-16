@@ -39,11 +39,11 @@
 
 ## Get in Touch 🚀
 
-I'm always open to collaborating on projects, discussing new ideas, or just chatting about tech! Feel free to reach out to me:
+I’d like to connect! Whether you have questions, ideas, or opportunities, feel free to reach out. You can contact me through the following channels:
 
 - 🌐 **Personal Website**: [Patiphan.site](https://www.patiphan.site)
 - 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/patiphan-arphorn/)
 - 💬 **Facebook**: [Patiphan.arp](https://www.facebook.com/patiphan.arp)
 - 📧 **Email**: [Patiphan.arp@gmail.com](mailto:Patiphan.arp@gmail.com)
 
-Let's build something amazing together! 💡✨
+Let’s connect and create something amazing together! 💡✨
