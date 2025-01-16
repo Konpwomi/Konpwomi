@@ -1,6 +1,6 @@
 # Hi there, I'm Patiphan Arphorn 👋
 
-"A passionate software engineer who believes in quality over quantity. I constantly strive to improve my skills, whether it's in front-end development, backend, or algorithmic problem solving. I focus on best practices to ensure my work is not just done but done well. Explore my portfolio and see how I bring my dedication to every project!"
+"A passionate software engineer who believes in quality over quantity. I constantly strive to improve my skills, whether it's in front-end development, backend, or algorithmic problem solving. I focus on best practices to ensure my work is not just done but done well.
 
 ### Front-end Development
 
