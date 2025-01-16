@@ -34,10 +34,11 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 <p align="center">
+    <img src="https://github.com/user-attachments/assets/6dae943b-2a19-4672-9d5c-01cd40300187" width="200" height="200">
   <a href="https://leetcode.com/Konpwomi/">
     <img src="https://leetcode-stats.vercel.app/api?username=Konpwomi&theme=dark" alt="LeetCode Stats">
   </a>
-  <img src="https://github.com/user-attachments/assets/6dae943b-2a19-4672-9d5c-01cd40300187" width="200" height="200">
+
 </p>
 
 ## Get in Touch 🚀
